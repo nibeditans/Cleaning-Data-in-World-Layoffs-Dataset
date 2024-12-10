@@ -2,6 +2,8 @@
 This is a SQL Data Cleaning Project done in MySQL.
 There's no need for an extra readme file for this as I already have added the comments to improve readabilty. So, let's just discuss each steps one by one and have a quick revision.
 
+You can check out the complete article on this this Project: [DATA CLEANING in Layoff Dataset — Part 1](https://medium.com/@nsworldinfo/data-cleaning-in-layoff-dataset-part-1-f366a6c112c6)
+
 The first thing I have done is, I viewed the whole table as we generally do to view a table in SQL:
 
     SELECT * FROM layoffs;
